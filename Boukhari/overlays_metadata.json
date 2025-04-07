@@ -1,0 +1,3914 @@
+{
+    "1": {
+        "EVI": [
+            {
+                "pivot_id": 1,
+                "index": "EVI",
+                "date": "2024-11-01",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_1_2024-11-01.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "EVI",
+                "date": "2024-11-11",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_1_2024-11-11.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "EVI",
+                "date": "2024-11-16",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_1_2024-11-16.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "EVI",
+                "date": "2024-11-21",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_1_2024-11-21.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "EVI",
+                "date": "2024-11-29",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_1_2024-11-29.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "EVI",
+                "date": "2024-12-06",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_1_2024-12-06.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "EVI",
+                "date": "2024-12-14",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_1_2024-12-14.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "EVI",
+                "date": "2024-12-19",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_1_2024-12-19.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "EVI",
+                "date": "2024-12-26",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_1_2024-12-26.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "EVI",
+                "date": "2025-01-03",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_1_2025-01-03.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "EVI",
+                "date": "2025-01-10",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_1_2025-01-10.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "EVI",
+                "date": "2025-01-18",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_1_2025-01-18.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "EVI",
+                "date": "2025-01-23",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_1_2025-01-23.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "EVI",
+                "date": "2025-02-02",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_1_2025-02-02.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "EVI",
+                "date": "2025-02-07",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_1_2025-02-07.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "EVI",
+                "date": "2025-02-14",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_1_2025-02-14.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "EVI",
+                "date": "2025-02-22",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_1_2025-02-22.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "EVI",
+                "date": "2025-02-27",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_1_2025-02-27.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "EVI",
+                "date": "2025-03-09",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_1_2025-03-09.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "EVI",
+                "date": "2025-03-16",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_1_2025-03-16.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "EVI",
+                "date": "2025-03-21",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_1_2025-03-21.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "EVI",
+                "date": "2025-03-31",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_1_2025-03-31.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "EVI",
+                "date": "2025-04-05",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_1_2025-04-05.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            }
+        ],
+        "LAI": [
+            {
+                "pivot_id": 1,
+                "index": "LAI",
+                "date": "2024-11-01",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_1_2024-11-01.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "LAI",
+                "date": "2024-11-11",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_1_2024-11-11.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "LAI",
+                "date": "2024-11-16",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_1_2024-11-16.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "LAI",
+                "date": "2024-11-21",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_1_2024-11-21.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "LAI",
+                "date": "2024-11-29",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_1_2024-11-29.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "LAI",
+                "date": "2024-12-06",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_1_2024-12-06.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "LAI",
+                "date": "2024-12-14",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_1_2024-12-14.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "LAI",
+                "date": "2024-12-19",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_1_2024-12-19.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "LAI",
+                "date": "2024-12-26",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_1_2024-12-26.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "LAI",
+                "date": "2025-01-03",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_1_2025-01-03.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "LAI",
+                "date": "2025-01-10",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_1_2025-01-10.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "LAI",
+                "date": "2025-01-18",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_1_2025-01-18.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "LAI",
+                "date": "2025-01-23",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_1_2025-01-23.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "LAI",
+                "date": "2025-02-02",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_1_2025-02-02.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "LAI",
+                "date": "2025-02-07",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_1_2025-02-07.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "LAI",
+                "date": "2025-02-14",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_1_2025-02-14.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "LAI",
+                "date": "2025-02-22",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_1_2025-02-22.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "LAI",
+                "date": "2025-02-27",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_1_2025-02-27.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "LAI",
+                "date": "2025-03-09",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_1_2025-03-09.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "LAI",
+                "date": "2025-03-16",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_1_2025-03-16.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "LAI",
+                "date": "2025-03-21",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_1_2025-03-21.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "LAI",
+                "date": "2025-03-31",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_1_2025-03-31.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "LAI",
+                "date": "2025-04-05",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_1_2025-04-05.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            }
+        ],
+        "NDMI": [
+            {
+                "pivot_id": 1,
+                "index": "NDMI",
+                "date": "2024-11-01",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_1_2024-11-01.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDMI",
+                "date": "2024-11-11",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_1_2024-11-11.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDMI",
+                "date": "2024-11-16",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_1_2024-11-16.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDMI",
+                "date": "2024-11-21",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_1_2024-11-21.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDMI",
+                "date": "2024-11-29",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_1_2024-11-29.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDMI",
+                "date": "2024-12-06",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_1_2024-12-06.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDMI",
+                "date": "2024-12-14",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_1_2024-12-14.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDMI",
+                "date": "2024-12-19",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_1_2024-12-19.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDMI",
+                "date": "2024-12-26",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_1_2024-12-26.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDMI",
+                "date": "2025-01-03",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_1_2025-01-03.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDMI",
+                "date": "2025-01-10",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_1_2025-01-10.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDMI",
+                "date": "2025-01-18",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_1_2025-01-18.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDMI",
+                "date": "2025-01-23",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_1_2025-01-23.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDMI",
+                "date": "2025-02-02",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_1_2025-02-02.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDMI",
+                "date": "2025-02-07",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_1_2025-02-07.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDMI",
+                "date": "2025-02-14",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_1_2025-02-14.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDMI",
+                "date": "2025-02-22",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_1_2025-02-22.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDMI",
+                "date": "2025-02-27",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_1_2025-02-27.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDMI",
+                "date": "2025-03-09",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_1_2025-03-09.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDMI",
+                "date": "2025-03-16",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_1_2025-03-16.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDMI",
+                "date": "2025-03-21",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_1_2025-03-21.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDMI",
+                "date": "2025-03-31",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_1_2025-03-31.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDMI",
+                "date": "2025-04-05",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_1_2025-04-05.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            }
+        ],
+        "NDRE": [
+            {
+                "pivot_id": 1,
+                "index": "NDRE",
+                "date": "2024-11-01",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_1_2024-11-01.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDRE",
+                "date": "2024-11-11",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_1_2024-11-11.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDRE",
+                "date": "2024-11-16",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_1_2024-11-16.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDRE",
+                "date": "2024-11-21",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_1_2024-11-21.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDRE",
+                "date": "2024-11-29",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_1_2024-11-29.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDRE",
+                "date": "2024-12-06",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_1_2024-12-06.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDRE",
+                "date": "2024-12-14",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_1_2024-12-14.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDRE",
+                "date": "2024-12-19",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_1_2024-12-19.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDRE",
+                "date": "2024-12-26",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_1_2024-12-26.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDRE",
+                "date": "2025-01-03",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_1_2025-01-03.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDRE",
+                "date": "2025-01-10",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_1_2025-01-10.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDRE",
+                "date": "2025-01-18",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_1_2025-01-18.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDRE",
+                "date": "2025-01-23",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_1_2025-01-23.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDRE",
+                "date": "2025-02-02",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_1_2025-02-02.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDRE",
+                "date": "2025-02-07",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_1_2025-02-07.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDRE",
+                "date": "2025-02-14",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_1_2025-02-14.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDRE",
+                "date": "2025-02-22",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_1_2025-02-22.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDRE",
+                "date": "2025-02-27",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_1_2025-02-27.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDRE",
+                "date": "2025-03-09",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_1_2025-03-09.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDRE",
+                "date": "2025-03-16",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_1_2025-03-16.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDRE",
+                "date": "2025-03-21",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_1_2025-03-21.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDRE",
+                "date": "2025-03-31",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_1_2025-03-31.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDRE",
+                "date": "2025-04-05",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_1_2025-04-05.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            }
+        ],
+        "NDVI": [
+            {
+                "pivot_id": 1,
+                "index": "NDVI",
+                "date": "2024-11-01",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_1_2024-11-01.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDVI",
+                "date": "2024-11-11",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_1_2024-11-11.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDVI",
+                "date": "2024-11-16",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_1_2024-11-16.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDVI",
+                "date": "2024-11-21",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_1_2024-11-21.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDVI",
+                "date": "2024-11-29",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_1_2024-11-29.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDVI",
+                "date": "2024-12-06",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_1_2024-12-06.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDVI",
+                "date": "2024-12-14",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_1_2024-12-14.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDVI",
+                "date": "2024-12-19",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_1_2024-12-19.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDVI",
+                "date": "2024-12-26",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_1_2024-12-26.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDVI",
+                "date": "2025-01-03",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_1_2025-01-03.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDVI",
+                "date": "2025-01-10",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_1_2025-01-10.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDVI",
+                "date": "2025-01-18",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_1_2025-01-18.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDVI",
+                "date": "2025-01-23",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_1_2025-01-23.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDVI",
+                "date": "2025-02-02",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_1_2025-02-02.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDVI",
+                "date": "2025-02-07",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_1_2025-02-07.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDVI",
+                "date": "2025-02-14",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_1_2025-02-14.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDVI",
+                "date": "2025-02-22",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_1_2025-02-22.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDVI",
+                "date": "2025-02-27",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_1_2025-02-27.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDVI",
+                "date": "2025-03-09",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_1_2025-03-09.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDVI",
+                "date": "2025-03-16",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_1_2025-03-16.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDVI",
+                "date": "2025-03-21",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_1_2025-03-21.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDVI",
+                "date": "2025-03-31",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_1_2025-03-31.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDVI",
+                "date": "2025-04-05",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_1_2025-04-05.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            }
+        ],
+        "NDWI": [
+            {
+                "pivot_id": 1,
+                "index": "NDWI",
+                "date": "2024-11-01",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_1_2024-11-01.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDWI",
+                "date": "2024-11-11",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_1_2024-11-11.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDWI",
+                "date": "2024-11-16",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_1_2024-11-16.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDWI",
+                "date": "2024-11-21",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_1_2024-11-21.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDWI",
+                "date": "2024-11-29",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_1_2024-11-29.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDWI",
+                "date": "2024-12-06",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_1_2024-12-06.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDWI",
+                "date": "2024-12-14",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_1_2024-12-14.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDWI",
+                "date": "2024-12-19",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_1_2024-12-19.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDWI",
+                "date": "2024-12-26",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_1_2024-12-26.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDWI",
+                "date": "2025-01-03",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_1_2025-01-03.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDWI",
+                "date": "2025-01-10",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_1_2025-01-10.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDWI",
+                "date": "2025-01-18",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_1_2025-01-18.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDWI",
+                "date": "2025-01-23",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_1_2025-01-23.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDWI",
+                "date": "2025-02-02",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_1_2025-02-02.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDWI",
+                "date": "2025-02-07",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_1_2025-02-07.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDWI",
+                "date": "2025-02-14",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_1_2025-02-14.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDWI",
+                "date": "2025-02-22",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_1_2025-02-22.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDWI",
+                "date": "2025-02-27",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_1_2025-02-27.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDWI",
+                "date": "2025-03-09",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_1_2025-03-09.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDWI",
+                "date": "2025-03-16",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_1_2025-03-16.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDWI",
+                "date": "2025-03-21",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_1_2025-03-21.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDWI",
+                "date": "2025-03-31",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_1_2025-03-31.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "NDWI",
+                "date": "2025-04-05",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_1_2025-04-05.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            }
+        ],
+        "SALINITY": [
+            {
+                "pivot_id": 1,
+                "index": "SALINITY",
+                "date": "2024-11-01",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_1_2024-11-01.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "SALINITY",
+                "date": "2024-11-11",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_1_2024-11-11.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "SALINITY",
+                "date": "2024-11-16",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_1_2024-11-16.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "SALINITY",
+                "date": "2024-11-21",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_1_2024-11-21.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "SALINITY",
+                "date": "2024-11-29",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_1_2024-11-29.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "SALINITY",
+                "date": "2024-12-06",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_1_2024-12-06.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "SALINITY",
+                "date": "2024-12-14",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_1_2024-12-14.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "SALINITY",
+                "date": "2024-12-19",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_1_2024-12-19.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "SALINITY",
+                "date": "2024-12-26",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_1_2024-12-26.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "SALINITY",
+                "date": "2025-01-03",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_1_2025-01-03.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "SALINITY",
+                "date": "2025-01-10",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_1_2025-01-10.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "SALINITY",
+                "date": "2025-01-18",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_1_2025-01-18.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "SALINITY",
+                "date": "2025-01-23",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_1_2025-01-23.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "SALINITY",
+                "date": "2025-02-02",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_1_2025-02-02.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "SALINITY",
+                "date": "2025-02-07",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_1_2025-02-07.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "SALINITY",
+                "date": "2025-02-14",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_1_2025-02-14.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "SALINITY",
+                "date": "2025-02-22",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_1_2025-02-22.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "SALINITY",
+                "date": "2025-02-27",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_1_2025-02-27.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "SALINITY",
+                "date": "2025-03-09",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_1_2025-03-09.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "SALINITY",
+                "date": "2025-03-16",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_1_2025-03-16.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "SALINITY",
+                "date": "2025-03-21",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_1_2025-03-21.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "SALINITY",
+                "date": "2025-03-31",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_1_2025-03-31.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 1,
+                "index": "SALINITY",
+                "date": "2025-04-05",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_1_2025-04-05.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            }
+        ]
+    },
+    "2": {
+        "EVI": [
+            {
+                "pivot_id": 2,
+                "index": "EVI",
+                "date": "2024-11-01",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_2_2024-11-01.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "EVI",
+                "date": "2024-11-11",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_2_2024-11-11.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "EVI",
+                "date": "2024-11-16",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_2_2024-11-16.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "EVI",
+                "date": "2024-11-21",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_2_2024-11-21.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "EVI",
+                "date": "2024-11-29",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_2_2024-11-29.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "EVI",
+                "date": "2024-12-06",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_2_2024-12-06.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "EVI",
+                "date": "2024-12-14",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_2_2024-12-14.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "EVI",
+                "date": "2024-12-19",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_2_2024-12-19.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "EVI",
+                "date": "2024-12-26",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_2_2024-12-26.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "EVI",
+                "date": "2025-01-03",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_2_2025-01-03.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "EVI",
+                "date": "2025-01-10",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_2_2025-01-10.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "EVI",
+                "date": "2025-01-18",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_2_2025-01-18.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "EVI",
+                "date": "2025-01-23",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_2_2025-01-23.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "EVI",
+                "date": "2025-02-02",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_2_2025-02-02.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "EVI",
+                "date": "2025-02-07",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_2_2025-02-07.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "EVI",
+                "date": "2025-02-14",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_2_2025-02-14.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "EVI",
+                "date": "2025-02-22",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_2_2025-02-22.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "EVI",
+                "date": "2025-02-27",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_2_2025-02-27.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "EVI",
+                "date": "2025-03-09",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_2_2025-03-09.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "EVI",
+                "date": "2025-03-16",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_2_2025-03-16.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "EVI",
+                "date": "2025-03-21",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_2_2025-03-21.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "EVI",
+                "date": "2025-03-31",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_2_2025-03-31.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "EVI",
+                "date": "2025-04-05",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_2_2025-04-05.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            }
+        ],
+        "LAI": [
+            {
+                "pivot_id": 2,
+                "index": "LAI",
+                "date": "2024-11-01",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_2_2024-11-01.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "LAI",
+                "date": "2024-11-11",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_2_2024-11-11.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "LAI",
+                "date": "2024-11-16",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_2_2024-11-16.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "LAI",
+                "date": "2024-11-21",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_2_2024-11-21.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "LAI",
+                "date": "2024-11-29",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_2_2024-11-29.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "LAI",
+                "date": "2024-12-06",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_2_2024-12-06.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "LAI",
+                "date": "2024-12-14",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_2_2024-12-14.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "LAI",
+                "date": "2024-12-19",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_2_2024-12-19.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "LAI",
+                "date": "2024-12-26",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_2_2024-12-26.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "LAI",
+                "date": "2025-01-03",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_2_2025-01-03.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "LAI",
+                "date": "2025-01-10",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_2_2025-01-10.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "LAI",
+                "date": "2025-01-18",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_2_2025-01-18.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "LAI",
+                "date": "2025-01-23",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_2_2025-01-23.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "LAI",
+                "date": "2025-02-02",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_2_2025-02-02.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "LAI",
+                "date": "2025-02-07",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_2_2025-02-07.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "LAI",
+                "date": "2025-02-14",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_2_2025-02-14.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "LAI",
+                "date": "2025-02-22",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_2_2025-02-22.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "LAI",
+                "date": "2025-02-27",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_2_2025-02-27.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "LAI",
+                "date": "2025-03-09",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_2_2025-03-09.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "LAI",
+                "date": "2025-03-16",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_2_2025-03-16.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "LAI",
+                "date": "2025-03-21",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_2_2025-03-21.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "LAI",
+                "date": "2025-03-31",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_2_2025-03-31.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "LAI",
+                "date": "2025-04-05",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_2_2025-04-05.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            }
+        ],
+        "NDMI": [
+            {
+                "pivot_id": 2,
+                "index": "NDMI",
+                "date": "2024-11-01",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_2_2024-11-01.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDMI",
+                "date": "2024-11-11",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_2_2024-11-11.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDMI",
+                "date": "2024-11-16",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_2_2024-11-16.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDMI",
+                "date": "2024-11-21",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_2_2024-11-21.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDMI",
+                "date": "2024-11-29",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_2_2024-11-29.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDMI",
+                "date": "2024-12-06",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_2_2024-12-06.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDMI",
+                "date": "2024-12-14",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_2_2024-12-14.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDMI",
+                "date": "2024-12-19",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_2_2024-12-19.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDMI",
+                "date": "2024-12-26",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_2_2024-12-26.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDMI",
+                "date": "2025-01-03",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_2_2025-01-03.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDMI",
+                "date": "2025-01-10",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_2_2025-01-10.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDMI",
+                "date": "2025-01-18",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_2_2025-01-18.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDMI",
+                "date": "2025-01-23",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_2_2025-01-23.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDMI",
+                "date": "2025-02-02",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_2_2025-02-02.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDMI",
+                "date": "2025-02-07",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_2_2025-02-07.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDMI",
+                "date": "2025-02-14",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_2_2025-02-14.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDMI",
+                "date": "2025-02-22",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_2_2025-02-22.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDMI",
+                "date": "2025-02-27",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_2_2025-02-27.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDMI",
+                "date": "2025-03-09",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_2_2025-03-09.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDMI",
+                "date": "2025-03-16",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_2_2025-03-16.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDMI",
+                "date": "2025-03-21",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_2_2025-03-21.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDMI",
+                "date": "2025-03-31",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_2_2025-03-31.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDMI",
+                "date": "2025-04-05",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_2_2025-04-05.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            }
+        ],
+        "NDRE": [
+            {
+                "pivot_id": 2,
+                "index": "NDRE",
+                "date": "2024-11-01",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_2_2024-11-01.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDRE",
+                "date": "2024-11-11",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_2_2024-11-11.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDRE",
+                "date": "2024-11-16",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_2_2024-11-16.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDRE",
+                "date": "2024-11-21",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_2_2024-11-21.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDRE",
+                "date": "2024-11-29",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_2_2024-11-29.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDRE",
+                "date": "2024-12-06",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_2_2024-12-06.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDRE",
+                "date": "2024-12-14",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_2_2024-12-14.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDRE",
+                "date": "2024-12-19",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_2_2024-12-19.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDRE",
+                "date": "2024-12-26",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_2_2024-12-26.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDRE",
+                "date": "2025-01-03",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_2_2025-01-03.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDRE",
+                "date": "2025-01-10",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_2_2025-01-10.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDRE",
+                "date": "2025-01-18",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_2_2025-01-18.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDRE",
+                "date": "2025-01-23",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_2_2025-01-23.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDRE",
+                "date": "2025-02-02",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_2_2025-02-02.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDRE",
+                "date": "2025-02-07",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_2_2025-02-07.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDRE",
+                "date": "2025-02-14",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_2_2025-02-14.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDRE",
+                "date": "2025-02-22",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_2_2025-02-22.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDRE",
+                "date": "2025-02-27",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_2_2025-02-27.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDRE",
+                "date": "2025-03-09",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_2_2025-03-09.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDRE",
+                "date": "2025-03-16",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_2_2025-03-16.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDRE",
+                "date": "2025-03-21",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_2_2025-03-21.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDRE",
+                "date": "2025-03-31",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_2_2025-03-31.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDRE",
+                "date": "2025-04-05",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_2_2025-04-05.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            }
+        ],
+        "NDVI": [
+            {
+                "pivot_id": 2,
+                "index": "NDVI",
+                "date": "2024-11-01",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_2_2024-11-01.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDVI",
+                "date": "2024-11-11",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_2_2024-11-11.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDVI",
+                "date": "2024-11-16",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_2_2024-11-16.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDVI",
+                "date": "2024-11-21",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_2_2024-11-21.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDVI",
+                "date": "2024-11-29",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_2_2024-11-29.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDVI",
+                "date": "2024-12-06",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_2_2024-12-06.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDVI",
+                "date": "2024-12-14",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_2_2024-12-14.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDVI",
+                "date": "2024-12-19",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_2_2024-12-19.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDVI",
+                "date": "2024-12-26",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_2_2024-12-26.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDVI",
+                "date": "2025-01-03",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_2_2025-01-03.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDVI",
+                "date": "2025-01-10",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_2_2025-01-10.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDVI",
+                "date": "2025-01-18",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_2_2025-01-18.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDVI",
+                "date": "2025-01-23",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_2_2025-01-23.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDVI",
+                "date": "2025-02-02",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_2_2025-02-02.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDVI",
+                "date": "2025-02-07",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_2_2025-02-07.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDVI",
+                "date": "2025-02-14",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_2_2025-02-14.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDVI",
+                "date": "2025-02-22",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_2_2025-02-22.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDVI",
+                "date": "2025-02-27",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_2_2025-02-27.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDVI",
+                "date": "2025-03-09",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_2_2025-03-09.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDVI",
+                "date": "2025-03-16",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_2_2025-03-16.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDVI",
+                "date": "2025-03-21",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_2_2025-03-21.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDVI",
+                "date": "2025-03-31",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_2_2025-03-31.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDVI",
+                "date": "2025-04-05",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_2_2025-04-05.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            }
+        ],
+        "NDWI": [
+            {
+                "pivot_id": 2,
+                "index": "NDWI",
+                "date": "2024-11-01",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_2_2024-11-01.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDWI",
+                "date": "2024-11-11",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_2_2024-11-11.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDWI",
+                "date": "2024-11-16",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_2_2024-11-16.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDWI",
+                "date": "2024-11-21",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_2_2024-11-21.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDWI",
+                "date": "2024-11-29",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_2_2024-11-29.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDWI",
+                "date": "2024-12-06",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_2_2024-12-06.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDWI",
+                "date": "2024-12-14",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_2_2024-12-14.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDWI",
+                "date": "2024-12-19",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_2_2024-12-19.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDWI",
+                "date": "2024-12-26",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_2_2024-12-26.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDWI",
+                "date": "2025-01-03",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_2_2025-01-03.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDWI",
+                "date": "2025-01-10",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_2_2025-01-10.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDWI",
+                "date": "2025-01-18",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_2_2025-01-18.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDWI",
+                "date": "2025-01-23",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_2_2025-01-23.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDWI",
+                "date": "2025-02-02",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_2_2025-02-02.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDWI",
+                "date": "2025-02-07",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_2_2025-02-07.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDWI",
+                "date": "2025-02-14",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_2_2025-02-14.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDWI",
+                "date": "2025-02-22",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_2_2025-02-22.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDWI",
+                "date": "2025-02-27",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_2_2025-02-27.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDWI",
+                "date": "2025-03-09",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_2_2025-03-09.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDWI",
+                "date": "2025-03-16",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_2_2025-03-16.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDWI",
+                "date": "2025-03-21",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_2_2025-03-21.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDWI",
+                "date": "2025-03-31",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_2_2025-03-31.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "NDWI",
+                "date": "2025-04-05",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_2_2025-04-05.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            }
+        ],
+        "SALINITY": [
+            {
+                "pivot_id": 2,
+                "index": "SALINITY",
+                "date": "2024-11-01",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_2_2024-11-01.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "SALINITY",
+                "date": "2024-11-11",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_2_2024-11-11.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "SALINITY",
+                "date": "2024-11-16",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_2_2024-11-16.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "SALINITY",
+                "date": "2024-11-21",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_2_2024-11-21.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "SALINITY",
+                "date": "2024-11-29",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_2_2024-11-29.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "SALINITY",
+                "date": "2024-12-06",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_2_2024-12-06.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "SALINITY",
+                "date": "2024-12-14",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_2_2024-12-14.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "SALINITY",
+                "date": "2024-12-19",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_2_2024-12-19.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "SALINITY",
+                "date": "2024-12-26",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_2_2024-12-26.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "SALINITY",
+                "date": "2025-01-03",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_2_2025-01-03.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "SALINITY",
+                "date": "2025-01-10",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_2_2025-01-10.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "SALINITY",
+                "date": "2025-01-18",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_2_2025-01-18.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "SALINITY",
+                "date": "2025-01-23",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_2_2025-01-23.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "SALINITY",
+                "date": "2025-02-02",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_2_2025-02-02.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "SALINITY",
+                "date": "2025-02-07",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_2_2025-02-07.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "SALINITY",
+                "date": "2025-02-14",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_2_2025-02-14.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "SALINITY",
+                "date": "2025-02-22",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_2_2025-02-22.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "SALINITY",
+                "date": "2025-02-27",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_2_2025-02-27.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "SALINITY",
+                "date": "2025-03-09",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_2_2025-03-09.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "SALINITY",
+                "date": "2025-03-16",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_2_2025-03-16.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "SALINITY",
+                "date": "2025-03-21",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_2_2025-03-21.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "SALINITY",
+                "date": "2025-03-31",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_2_2025-03-31.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 2,
+                "index": "SALINITY",
+                "date": "2025-04-05",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_2_2025-04-05.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            }
+        ]
+    },
+    "3": {
+        "EVI": [
+            {
+                "pivot_id": 3,
+                "index": "EVI",
+                "date": "2024-11-01",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_3_2024-11-01.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "EVI",
+                "date": "2024-11-11",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_3_2024-11-11.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "EVI",
+                "date": "2024-11-16",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_3_2024-11-16.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "EVI",
+                "date": "2024-11-21",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_3_2024-11-21.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "EVI",
+                "date": "2024-11-29",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_3_2024-11-29.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "EVI",
+                "date": "2024-12-06",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_3_2024-12-06.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "EVI",
+                "date": "2024-12-14",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_3_2024-12-14.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "EVI",
+                "date": "2024-12-19",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_3_2024-12-19.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "EVI",
+                "date": "2024-12-26",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_3_2024-12-26.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "EVI",
+                "date": "2025-01-03",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_3_2025-01-03.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "EVI",
+                "date": "2025-01-10",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_3_2025-01-10.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "EVI",
+                "date": "2025-01-18",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_3_2025-01-18.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "EVI",
+                "date": "2025-01-23",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_3_2025-01-23.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "EVI",
+                "date": "2025-02-02",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_3_2025-02-02.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "EVI",
+                "date": "2025-02-07",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_3_2025-02-07.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "EVI",
+                "date": "2025-02-14",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_3_2025-02-14.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "EVI",
+                "date": "2025-02-22",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_3_2025-02-22.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "EVI",
+                "date": "2025-02-27",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_3_2025-02-27.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "EVI",
+                "date": "2025-03-09",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_3_2025-03-09.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "EVI",
+                "date": "2025-03-16",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_3_2025-03-16.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "EVI",
+                "date": "2025-03-21",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_3_2025-03-21.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "EVI",
+                "date": "2025-03-31",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_3_2025-03-31.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "EVI",
+                "date": "2025-04-05",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/EVI/masked_EVI_3_2025-04-05.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            }
+        ],
+        "LAI": [
+            {
+                "pivot_id": 3,
+                "index": "LAI",
+                "date": "2024-11-01",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_3_2024-11-01.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "LAI",
+                "date": "2024-11-11",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_3_2024-11-11.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "LAI",
+                "date": "2024-11-16",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_3_2024-11-16.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "LAI",
+                "date": "2024-11-21",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_3_2024-11-21.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "LAI",
+                "date": "2024-11-29",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_3_2024-11-29.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "LAI",
+                "date": "2024-12-06",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_3_2024-12-06.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "LAI",
+                "date": "2024-12-14",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_3_2024-12-14.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "LAI",
+                "date": "2024-12-19",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_3_2024-12-19.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "LAI",
+                "date": "2024-12-26",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_3_2024-12-26.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "LAI",
+                "date": "2025-01-03",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_3_2025-01-03.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "LAI",
+                "date": "2025-01-10",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_3_2025-01-10.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "LAI",
+                "date": "2025-01-18",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_3_2025-01-18.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "LAI",
+                "date": "2025-01-23",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_3_2025-01-23.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "LAI",
+                "date": "2025-02-02",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_3_2025-02-02.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "LAI",
+                "date": "2025-02-07",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_3_2025-02-07.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "LAI",
+                "date": "2025-02-14",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_3_2025-02-14.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "LAI",
+                "date": "2025-02-22",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_3_2025-02-22.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "LAI",
+                "date": "2025-02-27",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_3_2025-02-27.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "LAI",
+                "date": "2025-03-09",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_3_2025-03-09.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "LAI",
+                "date": "2025-03-16",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_3_2025-03-16.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "LAI",
+                "date": "2025-03-21",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_3_2025-03-21.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "LAI",
+                "date": "2025-03-31",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_3_2025-03-31.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "LAI",
+                "date": "2025-04-05",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/LAI/masked_LAI_3_2025-04-05.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            }
+        ],
+        "NDMI": [
+            {
+                "pivot_id": 3,
+                "index": "NDMI",
+                "date": "2024-11-01",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_3_2024-11-01.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDMI",
+                "date": "2024-11-11",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_3_2024-11-11.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDMI",
+                "date": "2024-11-16",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_3_2024-11-16.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDMI",
+                "date": "2024-11-21",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_3_2024-11-21.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDMI",
+                "date": "2024-11-29",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_3_2024-11-29.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDMI",
+                "date": "2024-12-06",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_3_2024-12-06.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDMI",
+                "date": "2024-12-14",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_3_2024-12-14.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDMI",
+                "date": "2024-12-19",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_3_2024-12-19.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDMI",
+                "date": "2024-12-26",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_3_2024-12-26.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDMI",
+                "date": "2025-01-03",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_3_2025-01-03.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDMI",
+                "date": "2025-01-10",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_3_2025-01-10.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDMI",
+                "date": "2025-01-18",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_3_2025-01-18.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDMI",
+                "date": "2025-01-23",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_3_2025-01-23.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDMI",
+                "date": "2025-02-02",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_3_2025-02-02.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDMI",
+                "date": "2025-02-07",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_3_2025-02-07.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDMI",
+                "date": "2025-02-14",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_3_2025-02-14.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDMI",
+                "date": "2025-02-22",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_3_2025-02-22.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDMI",
+                "date": "2025-02-27",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_3_2025-02-27.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDMI",
+                "date": "2025-03-09",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_3_2025-03-09.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDMI",
+                "date": "2025-03-16",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_3_2025-03-16.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDMI",
+                "date": "2025-03-21",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_3_2025-03-21.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDMI",
+                "date": "2025-03-31",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_3_2025-03-31.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDMI",
+                "date": "2025-04-05",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDMI/masked_NDMI_3_2025-04-05.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            }
+        ],
+        "NDRE": [
+            {
+                "pivot_id": 3,
+                "index": "NDRE",
+                "date": "2024-11-01",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_3_2024-11-01.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDRE",
+                "date": "2024-11-11",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_3_2024-11-11.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDRE",
+                "date": "2024-11-16",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_3_2024-11-16.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDRE",
+                "date": "2024-11-21",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_3_2024-11-21.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDRE",
+                "date": "2024-11-29",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_3_2024-11-29.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDRE",
+                "date": "2024-12-06",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_3_2024-12-06.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDRE",
+                "date": "2024-12-14",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_3_2024-12-14.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDRE",
+                "date": "2024-12-19",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_3_2024-12-19.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDRE",
+                "date": "2024-12-26",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_3_2024-12-26.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDRE",
+                "date": "2025-01-03",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_3_2025-01-03.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDRE",
+                "date": "2025-01-10",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_3_2025-01-10.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDRE",
+                "date": "2025-01-18",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_3_2025-01-18.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDRE",
+                "date": "2025-01-23",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_3_2025-01-23.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDRE",
+                "date": "2025-02-02",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_3_2025-02-02.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDRE",
+                "date": "2025-02-07",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_3_2025-02-07.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDRE",
+                "date": "2025-02-14",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_3_2025-02-14.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDRE",
+                "date": "2025-02-22",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_3_2025-02-22.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDRE",
+                "date": "2025-02-27",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_3_2025-02-27.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDRE",
+                "date": "2025-03-09",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_3_2025-03-09.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDRE",
+                "date": "2025-03-16",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_3_2025-03-16.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDRE",
+                "date": "2025-03-21",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_3_2025-03-21.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDRE",
+                "date": "2025-03-31",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_3_2025-03-31.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDRE",
+                "date": "2025-04-05",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDRE/masked_NDRE_3_2025-04-05.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            }
+        ],
+        "NDVI": [
+            {
+                "pivot_id": 3,
+                "index": "NDVI",
+                "date": "2024-11-01",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_3_2024-11-01.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDVI",
+                "date": "2024-11-11",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_3_2024-11-11.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDVI",
+                "date": "2024-11-16",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_3_2024-11-16.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDVI",
+                "date": "2024-11-21",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_3_2024-11-21.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDVI",
+                "date": "2024-11-29",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_3_2024-11-29.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDVI",
+                "date": "2024-12-06",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_3_2024-12-06.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDVI",
+                "date": "2024-12-14",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_3_2024-12-14.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDVI",
+                "date": "2024-12-19",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_3_2024-12-19.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDVI",
+                "date": "2024-12-26",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_3_2024-12-26.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDVI",
+                "date": "2025-01-03",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_3_2025-01-03.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDVI",
+                "date": "2025-01-10",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_3_2025-01-10.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDVI",
+                "date": "2025-01-18",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_3_2025-01-18.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDVI",
+                "date": "2025-01-23",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_3_2025-01-23.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDVI",
+                "date": "2025-02-02",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_3_2025-02-02.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDVI",
+                "date": "2025-02-07",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_3_2025-02-07.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDVI",
+                "date": "2025-02-14",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_3_2025-02-14.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDVI",
+                "date": "2025-02-22",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_3_2025-02-22.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDVI",
+                "date": "2025-02-27",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_3_2025-02-27.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDVI",
+                "date": "2025-03-09",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_3_2025-03-09.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDVI",
+                "date": "2025-03-16",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_3_2025-03-16.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDVI",
+                "date": "2025-03-21",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_3_2025-03-21.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDVI",
+                "date": "2025-03-31",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_3_2025-03-31.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDVI",
+                "date": "2025-04-05",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDVI/masked_NDVI_3_2025-04-05.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            }
+        ],
+        "NDWI": [
+            {
+                "pivot_id": 3,
+                "index": "NDWI",
+                "date": "2024-11-01",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_3_2024-11-01.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDWI",
+                "date": "2024-11-11",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_3_2024-11-11.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDWI",
+                "date": "2024-11-16",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_3_2024-11-16.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDWI",
+                "date": "2024-11-21",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_3_2024-11-21.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDWI",
+                "date": "2024-11-29",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_3_2024-11-29.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDWI",
+                "date": "2024-12-06",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_3_2024-12-06.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDWI",
+                "date": "2024-12-14",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_3_2024-12-14.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDWI",
+                "date": "2024-12-19",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_3_2024-12-19.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDWI",
+                "date": "2024-12-26",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_3_2024-12-26.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDWI",
+                "date": "2025-01-03",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_3_2025-01-03.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDWI",
+                "date": "2025-01-10",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_3_2025-01-10.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDWI",
+                "date": "2025-01-18",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_3_2025-01-18.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDWI",
+                "date": "2025-01-23",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_3_2025-01-23.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDWI",
+                "date": "2025-02-02",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_3_2025-02-02.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDWI",
+                "date": "2025-02-07",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_3_2025-02-07.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDWI",
+                "date": "2025-02-14",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_3_2025-02-14.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDWI",
+                "date": "2025-02-22",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_3_2025-02-22.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDWI",
+                "date": "2025-02-27",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_3_2025-02-27.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDWI",
+                "date": "2025-03-09",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_3_2025-03-09.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDWI",
+                "date": "2025-03-16",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_3_2025-03-16.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDWI",
+                "date": "2025-03-21",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_3_2025-03-21.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDWI",
+                "date": "2025-03-31",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_3_2025-03-31.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "NDWI",
+                "date": "2025-04-05",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/NDWI/masked_NDWI_3_2025-04-05.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            }
+        ],
+        "SALINITY": [
+            {
+                "pivot_id": 3,
+                "index": "SALINITY",
+                "date": "2024-11-01",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_3_2024-11-01.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "SALINITY",
+                "date": "2024-11-11",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_3_2024-11-11.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "SALINITY",
+                "date": "2024-11-16",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_3_2024-11-16.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "SALINITY",
+                "date": "2024-11-21",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_3_2024-11-21.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "SALINITY",
+                "date": "2024-11-29",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_3_2024-11-29.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "SALINITY",
+                "date": "2024-12-06",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_3_2024-12-06.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "SALINITY",
+                "date": "2024-12-14",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_3_2024-12-14.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "SALINITY",
+                "date": "2024-12-19",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_3_2024-12-19.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "SALINITY",
+                "date": "2024-12-26",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_3_2024-12-26.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "SALINITY",
+                "date": "2025-01-03",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_3_2025-01-03.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "SALINITY",
+                "date": "2025-01-10",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_3_2025-01-10.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "SALINITY",
+                "date": "2025-01-18",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_3_2025-01-18.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "SALINITY",
+                "date": "2025-01-23",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_3_2025-01-23.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "SALINITY",
+                "date": "2025-02-02",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_3_2025-02-02.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "SALINITY",
+                "date": "2025-02-07",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_3_2025-02-07.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "SALINITY",
+                "date": "2025-02-14",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_3_2025-02-14.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "SALINITY",
+                "date": "2025-02-22",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_3_2025-02-22.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "SALINITY",
+                "date": "2025-02-27",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_3_2025-02-27.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "SALINITY",
+                "date": "2025-03-09",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_3_2025-03-09.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "SALINITY",
+                "date": "2025-03-16",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_3_2025-03-16.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "SALINITY",
+                "date": "2025-03-21",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_3_2025-03-21.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "SALINITY",
+                "date": "2025-03-31",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_3_2025-03-31.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            },
+            {
+                "pivot_id": 3,
+                "index": "SALINITY",
+                "date": "2025-04-05",
+                "png_path": "https://raw.githubusercontent.com/Tayeb2323/Farms/refs/heads/main/Processes_data/Boukhari/SALINITY/masked_SALINITY_3_2025-04-05.png",
+                "Date_semi": "None",
+                "Variete": "None"
+            }
+        ]
+    }
+}
